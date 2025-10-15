@@ -1,5 +1,5 @@
 --// Aimbot educativo com FOV, parede, menu branco e mira instantânea (gruda forte e real)
--- Use SOMENTE para fins educativos no Roblox Studio!.
+-- Use SOMENTE para fins educativos no Roblox Studio!
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
